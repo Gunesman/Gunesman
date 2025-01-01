@@ -73,8 +73,7 @@
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo" height="50"/></a>
-<a href="#" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook Logo" height="50"/></a>  
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" alt="Slack Logo" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook Logo" height="50"/></a> 
 </p>
 
 ---
