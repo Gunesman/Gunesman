@@ -44,6 +44,10 @@
      alt="Tableau" 
      height="60" />
 </a>
+ <a <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/GoogleSheets-Logo.svg" 
+     alt="Google Sheets" 
+     height="60" /> </a>
+
 </p>
 
 ---
