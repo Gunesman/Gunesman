@@ -1,106 +1,109 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" width="500px">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EC866&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Fuat+%F0%9F%91%8B;Career+Changer+%E2%86%92+Data+Analyst;From+Cargo+Ops+to+Data+Pipelines;Currently+Learning+%7C+Python+%E2%86%92+Pandas+%E2%86%92+ML" alt="Typing SVG" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fuat-gunesbe/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fuatgunes01@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fuatgunes)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/fuatgunes)
+
 </div>
 
-<div align="center"> <h1 align="center"> Hi There! This is FUAT GUNES 👋 </h1> </div>
-<h3 align="center">💬 Motivated tech enthusiast and Data Scientist from TURKEY 💬</h3>
+<br>
 
-<p align="center">
-🚀 <b>2026 update:</b> Resumed my Data Science journey with renewed focus and consistency, building on the foundation laid in 2024–2025.
-</p>
+## 🧭 About Me
 
----
+Ten-plus years coordinating airport cargo operations at **Aviapartner Belgium** taught me how to make fast, accurate decisions from incomplete information under real time pressure. I'm now channeling that same discipline into **data analysis and machine learning** — currently rebuilding my skills systematically from Python fundamentals up through the full data science stack.
 
-<div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
-<p align="center">
-<a href="https://www.linkedin.com/in/fuat-gunesbe/">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:fuatgunes01@gmail.com">  
-  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
-</a>
-<a href="https://medium.com/@fuatgunes">
-  <img align="center" src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.hackerrank.com/fuatgunes">
-  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-</a>
-<a href="https://github.com/Gunesman">
-  <img align="center" src="https://komarev.com/ghpvc/?username=Gunesman" alt="Profile Views" width="16%"/>
-</a>
-</p>
+```python
+class FuatGunes:
+    def __init__(self):
+        self.background   = "Mining Engineering → Airport Cargo Logistics (10+ yrs)"
+        self.current_focus = "Python → Pandas → NumPy → Machine Learning"
+        self.short_term    = "Data Analyst / Junior Data Scientist"
+        self.long_term     = "Machine Learning Specialist"
+        self.based_in      = "Liège, Belgium"
 
----
+    def daily_habit(self):
+        return "Practice in public. Commit real progress, not a highlight reel."
+```
 
-<div align="center"> <h1 align="center"> 💻 DATA VISUALIZATION </h1> </div>
-<p align="center">
-<a href="#" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" alt="Matplotlib" height="60"/> 
-</a>
-<a href="#" target="_blank"> 
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" height="60"/> 
-</a>
-<a href="#" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> 
-</a>
-<a href="#" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" height="60" />
-</a>
-<a href="#" target="_blank"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/GoogleSheets-Logo.svg" alt="Google Sheets" height="60" />
-</a>
-</p>
+<br>
 
----
+## 🧰 Tech Stack
 
-<div align="center"> <h1 align="center"> 📚 LIBRARIES </h1> </div>
-<p align="center">
-<a href="#" target="_blank"> <img align="center" src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="70"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://scipy.org/images/logo.svg" alt="SciPy" width="120"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
-</p>
+<div align="center">
 
----
+**Languages & Data**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-<div align="center"> <h1 align="center"> 🖥 LANGUAGES </h1> </div>
-<p align="center">
-<a href="#" target="_blank"> <img align="center" src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="SQLite" height="60"/> </a>
-</p>
+**Analysis & Libraries**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 
----
+**Visualization**
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
-<div align="center"> <h1 align="center"> ⚙ TOOLS </h1> </div>
-<p align="center">
-<a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/sublimetext_94866.png" alt="sublime-text" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo" height="50"/></a>
-<a href="#" target="_blank"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook Logo" height="50"/></a> 
-</p>
+**Tools & Workflow**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
----
+</div>
 
-<div align="center"> <h1 align="center"> 📊 STATISTICS </h1> </div>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gunesman&count_private=true&theme=algolia&show_icons=true&hide_border=true" alt="my github stats" width="48%"/>&nbsp;
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gunesman&theme=algolia" alt="my commit status" width="48.2%"/>
-</p>
+<br>
 
----
+## 📌 Featured Projects
 
-<div align="center"> <h1 align="center"> 💾 MY REPOSITORIES  </h1> </div>
-<p align="center">
-<a href="https://github.com/Gunesman/AutoScout-Car-Price-Prediction-EDA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gunesman&repo=AutoScout-Car-Price-Prediction-EDA&theme=algolia" />
-</a>
-<a href="https://github.com/Gunesman/python-data-analysis-2026">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gunesman&repo=python-data-analysis-2026&theme=algolia" />
-</a>
-<a href="https://github.com/Gunesman/Assignments-EDA-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gunesman&repo=Assignments-EDA-Project&theme=algolia" />
-</a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 [AutoScout Car Price Prediction (EDA)](https://github.com/Gunesman/AutoScout-Car-Price-Prediction-EDA)
+Full exploratory data analysis on a real automotive dataset — cleaning, feature engineering, and groundwork for a price prediction model. A machine learning extension is the next step.
+
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [python-data-analysis-2026](https://github.com/Gunesman/python-data-analysis-2026)
+My active daily practice log — exercises, assignments, and small projects as I rebuild my Python foundation toward Pandas and NumPy. Not polished by design: you can watch the progression happen, commit by commit.
+
+`Python` `Git` `Daily Practice`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 📊 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Gunesman&count_private=true&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gunesman&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+</div>
+
+<br>
+
+## 🎯 Currently
+
+- 📚 Working through Python fundamentals daily, moving toward Pandas & NumPy
+- 🎯 Targeting a Data Analyst / Junior Data Scientist role
+- 🔭 Long-term focus: Machine Learning
+- 🤝 Open to connecting with anyone in data analytics / data science
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Gunesman&style=flat-square&color=2EC866" alt="Profile Views"/>
+</div>
